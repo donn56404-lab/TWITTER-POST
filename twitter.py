@@ -22,10 +22,10 @@ from threading import Thread
 from flask import Flask
 
 # ====== CONFIG ======
-API_KEY = "YOUR_API_KEY"
-API_SECRET = "YOUR_API_SECRET"
-ACCESS_TOKEN = "YOUR_ACCESS_TOKEN"
-ACCESS_SECRET = "YOUR_ACCESS_SECRET"
+API_KEY = "OwRbI9wi8eglE4yAxeiJgdtBr"
+API_SECRET = "HenKDXkitpno7Ciiql1FWuq1aDVuGamocqu2gswHfDMe7j6qjk"
+ACCESS_TOKEN = "1917680783331930112-VFp1mvpIqq5xYfxBbG3IiWLPbCJrc9"
+ACCESS_SECRET = "TjIVuZrh0Re7KdkCCsKwuUtTmFSU18UNvuq4tBxSHhh3h"
 
 POST_FILE = "post.txt"
 INFLUENCERS_FILE = "influencers.txt"
